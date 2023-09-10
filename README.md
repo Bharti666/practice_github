@@ -10,3 +10,5 @@ git log--> show history of all commits
 git log branchB..branchA, show the commits on branchA that are not on branchB
 C:\Users\hp\Desktop\practice_github>git log -- branchmain2..branchmain
 C:\Users\hp\Desktop\practice_github>git restore --staged README.md restore the commit 
+i have done some changes into github remote repo and if i want ot pull those changes then i have to use
+git fetch and git merge origin main commands
