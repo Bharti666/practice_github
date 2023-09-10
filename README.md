@@ -6,3 +6,5 @@ C:\Users\hp\Desktop\practice_github>git checkout -b main2-> create another branc
 know at which branch we are working--> git branch
 swithc branch--> git checkout main
 now whatever things are there they are only in main branch there is nothing in main2 branch
+git log--> show history of all commits
+git log branchB..branchA, show the commits on branchA that are not on branchB
